@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6201359aef2178c438c9471b910e370c
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 3674daadd0912c244898462381cc4288
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3b134add526fbac4ca68f62a0e4619e6
+  - enabled: 1
+    path: Assets/Scenes/directions.unity
+    guid: 9c8e62ab6cd026c49a3f29d153c87c7e
+  - enabled: 1
+    path: Assets/Scenes/HardDifficulty.unity
+    guid: 47313b23be5b1af4e90aa035bab87e57
+  - enabled: 1
+    path: Assets/Scenes/HighScore.unity
+    guid: 3dbe1cce94dc27742b9592dad4547bdd
+  - enabled: 1
+    path: Assets/Scenes/ExamScene.unity
+    guid: f50a5ca01a205c743b13fa951a4ce3e5
+  - enabled: 1
+    path: Assets/Scenes/GraduationScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/NotGraduationScene.unity
+    guid: 63dd20caf69c29d499b34c5571832264
+  - enabled: 1
+    path: Assets/Scenes/DeadScene.unity
+    guid: 64b5137d0cb44c84b9c24c354ca63135
+  m_configObjects: {}
